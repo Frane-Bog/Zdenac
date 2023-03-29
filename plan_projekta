@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T13:14:38.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="v-j3hfrHEL4Zb3IbKViV" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T13:15:03.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="99r7f1najWdrrqENeOox" version="21.1.1" type="github">
   <diagram name="Page-1" id="B7t48lQ2KjxkVHj4PbOr">
     <mxGraphModel dx="1434" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,8 +155,8 @@
         <mxCell id="-mbjjgzPI7qVO5M_XxPA-4" value="Objekte:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Ime_ime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="-mbjjgzPI7qVO5M_XxPA-1">
           <mxGeometry y="90" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-mbjjgzPI7qVO5M_XxPA-16" value="Novi korisnik" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="600" width="160" height="216" as="geometry" />
+        <mxCell id="-mbjjgzPI7qVO5M_XxPA-16" value="Admin" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="-mbjjgzPI7qVO5M_XxPA-17" value="Ime, nije jedinstveno" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-mbjjgzPI7qVO5M_XxPA-16">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -178,9 +178,6 @@
         </mxCell>
         <mxCell id="-mbjjgzPI7qVO5M_XxPA-23" value="Odredi_Dijete(&amp;nbsp; )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-mbjjgzPI7qVO5M_XxPA-16">
           <mxGeometry y="164" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="-mbjjgzPI7qVO5M_XxPA-24" value="Postani_Kum( broj_tarife )" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="-mbjjgzPI7qVO5M_XxPA-16">
-          <mxGeometry y="190" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-mbjjgzPI7qVO5M_XxPA-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;" edge="1" parent="1" source="-mbjjgzPI7qVO5M_XxPA-23" target="LxMynAKL2IBzL1-u7bcH-23">
           <mxGeometry relative="1" as="geometry" />
